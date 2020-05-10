@@ -1,0 +1,22 @@
+body{
+    background-color:  #F0F8FF;
+  }
+  table {
+    width: 1280px;
+    height: 500px;
+    border-spacing: 1px;
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 14pt;
+   }
+tr {
+    height: 100px;
+   }
+   .text {
+   text-align:  center;
+
+         }
+  caption {
+    text-align: right;
+  }
+
+
